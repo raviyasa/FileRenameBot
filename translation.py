@@ -17,7 +17,7 @@ class Translation(object):
     CUSTOM_CAPTION_UL_FILE = " "
     NO_THUMB_FOUND = "No Thumbnail found 😶"
     IFLONG_FILE_NAME = """You Gotta Be Kidding Me...Decrease The Number Of Letters😆😉"""
-    ABOUT_ME = """<b>⭕️My Name : Renamer X Bot\n⭕️ Creator : <a href="https://t.me/darkz_hacker_devil">🧑‍💻 Ravidu Yasas</a>\n⭕️ Language : Python3\n⭕️ Library : Pyrogram 1.0.7\n⭕️ Source Code : 🔐</b>"""
+    ABOUT_ME = """<b>⭕️My Name : Renamer X Bot\n\n⭕️ Creator : <a href="https://t.me/darkz_hacker_devil">🧑‍💻 Ravidu Yasas</a>\n\n⭕️ Language : Python3\n\n⭕️ Library : Pyrogram 1.0.7\n\n⭕️ Source Code : 🔐</b>"""
     HELP_USER = """Checkout The Available Commands Here \n\n Do Follow @media_bot_updates If You Find This Bot Usefull❤️"""
     RENAME_HELP = """Here are The Available Commands In Reanme \n\n\n▪️ <code>/rename</code> : Reply To An File/video With <code>/rename Filename.extension</code> For Renaming"""
     C2V_HELP = """Here Are The Available Commands In File To Video \n\n\n ▪️<code>/c2v</code> : Reply To An File With /c2v To Convert It Into Video⚡"""
